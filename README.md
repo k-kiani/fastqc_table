@@ -1,5 +1,5 @@
 # fastqc_table
-Gather data from fastqc results of multiple data for preliminary analysis of:
+Gather data from fastqc results in a UNIX environment of multiple data for preliminary analysis of:
   - GC Content
   - Overrepresented Sequences
   
